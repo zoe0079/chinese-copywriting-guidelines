@@ -1,5 +1,5 @@
 # 中文文案排版指北
-[![devDependency Status](https://david-dm.org/sparanoid/chinese-copywriting-guidelines/dev-status.svg)](https://david-dm.org/sparanoid/chinese-copywriting-guidelines#info=devDependencies)
+[![devDependency Status](https://david-dm.org/mzlogin/chinese-copywriting-guidelines/dev-status.svg)](https://david-dm.org/mzlogin/chinese-copywriting-guidelines#info=devDependencies)
 
 统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
 
@@ -7,7 +7,7 @@ Other languages: [繁體中文](https://github.com/sparanoid/chinese-copywriting
 
 -----
 
-## 目次
+## 目录
 
 - [空格](#空格)
   - [中英文之间需要增加空格](#中英文之间需要增加空格)
