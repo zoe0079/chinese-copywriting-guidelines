@@ -1,3 +1,19 @@
+<a name="0.0.7"></a>
+## [0.0.7](https://github.com/mzlogin/chinese-copywriting-guidelines/compare/v0.0.6...v0.0.7) (2015-10-26)
+
+
+### Features
+
+* **docs:** add languages section ([e052b1d](https://github.com/mzlogin/chinese-copywriting-guidelines/commit/e052b1d))
+* **docs:** add new tool ([d7b7cf8](https://github.com/mzlogin/chinese-copywriting-guidelines/commit/d7b7cf8))
+* **docs:** remove custom emojis ([2006083](https://github.com/mzlogin/chinese-copywriting-guidelines/commit/2006083))
+* **docs:** simplify examples ([8da879a](https://github.com/mzlogin/chinese-copywriting-guidelines/commit/8da879a))
+* **docs:** simplify TOC ([81c4a06](https://github.com/mzlogin/chinese-copywriting-guidelines/commit/81c4a06))
+* **docs:** update devDependency Status link ([a95a4c6](https://github.com/mzlogin/chinese-copywriting-guidelines/commit/a95a4c6))
+* **package:** update contributors ([1ef68dd](https://github.com/mzlogin/chinese-copywriting-guidelines/commit/1ef68dd))
+
+
+
 <a name="0.0.6"></a>
 ## [0.0.6](https://github.com/sparanoid/chinese-copywriting-guidelines/compare/v0.0.5...v0.0.6) (2015-08-12)
 
