@@ -30,12 +30,13 @@
     "matchdep": "^1.0.0"
   },
   "contributors": [
+    "Zhuang Ma <ChumpMa@gmail.com>",
     "Jason Lee <huacnlee@gmail.com>",
+    "Charlie Jade <summer.alex07@gmail.com>",
+    "Elethom Hunter <elethomhunter@gmail.com>",
     "Huei Tan <huei90@users.noreply.github.com>",
     "Yang Li <idealhack@gmail.com>",
     "tzx <district10@users.noreply.github.com>",
-    "Charlie Jade <summer.alex07@gmail.com>",
-    "hotoo@users.noreply.github.com>",
-    "Elethom Hunter <elethomhunter@gmail.com>"
+    "hotoo@users.noreply.github.com>"
   ]
 }
