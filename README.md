@@ -53,7 +53,7 @@ Other languages: [繁體中文](https://github.com/sparanoid/chinese-copywriting
 
 > 在 LeanCloud 上，数据存储是围绕 `AVObject` 进行的。每个 `AVObject` 都包含了与 JSON 兼容的 key-value 对应的数据。数据是 schema-free 的，你不需要在每个 `AVObject` 上提前指定存在哪些键，只要直接设定对应的 key-value 即可。
 
-:exclamation: 例外：「豆瓣FM」等产品名词，按照官方所定义的格式书写。
+例外：「豆瓣FM」等产品名词，按照官方所定义的格式书写。
 
 ### 中文与数字之间需要增加空格
 
@@ -77,7 +77,7 @@ Other languages: [繁體中文](https://github.com/sparanoid/chinese-copywriting
 
 > 我家的光纤入户宽带有 10Gbps，SSD 一共有 10TB。
 
-:exclamation: 例外：度／百分比与数字之间不需要增加空格：
+例外：度／百分比与数字之间不需要增加空格：
 
 正确：
 
@@ -129,7 +129,7 @@ Microsoft 有个 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 
 ## 全角和半角
 
-:exclamation: 不明白什么是全角（全形）与半角（半形）符号？请查看维基百科词条『[全角和半角](http://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)』。
+不明白什么是全角（全形）与半角（半形）符号？请查看维基百科词条『[全角和半角](http://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)』。
 
 ### 使用全角中文标点
 
@@ -159,7 +159,7 @@ Microsoft 有个 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 
 > 这件蛋糕只卖 １０００ 元。
 
-:exclamation: 例外：在设计稿、宣传海报中如出现极少量数字的情形时，为方便文字对齐，是可以使用全角数字的。
+例外：在设计稿、宣传海报中如出现极少量数字的情形时，为方便文字对齐，是可以使用全角数字的。
 
 ### 遇到完整的英文整句、特殊名词，其內容使用半角标点
 
@@ -223,7 +223,7 @@ Microsoft 有个 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 
 ## 争议
 
-:exclamation: 以下用法略带有个人色彩，既：无论是否遵循下述规则，从语法的角度来讲都是**正确**的。
+以下用法略带有个人色彩，既：无论是否遵循下述规则，从语法的角度来讲都是**正确**的。
 
 ### 中文链接之间增加空格
 
