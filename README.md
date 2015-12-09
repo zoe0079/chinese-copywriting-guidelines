@@ -163,13 +163,13 @@ Microsoft 有个 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 
 正确：
 
-> 乔帮主那句话是怎么说的？「Stay hungry, stay foolish.」。
+> 乔布斯那句话是怎么说的？「Stay hungry, stay foolish.」。
 
 > 推荐你阅读『Hackers & Painters: Big Ideas from the Computer Age』，非常的有趣。
 
 错误：
 
-> 乔帮主那句话是怎么说的？「Stay hungry，stay foolish。」。
+> 乔布斯那句话是怎么说的？「Stay hungry，stay foolish。」。
 
 > 推荐你阅读『Hackers＆Painters：Big Ideas from the Computer Age』，非常的有趣。
 
