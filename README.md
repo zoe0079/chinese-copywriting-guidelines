@@ -3,7 +3,11 @@
 
 统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
 
-Other languages: [繁體中文](https://github.com/sparanoid/chinese-copywriting-guidelines)
+Other languages:
+
+- [English](README.en.md)
+- [Chinese Traditional](https://github.com/sparanoid/chinese-copywriting-guidelines)
+- [Chinese Simplified](README.md)
 
 -----
 
