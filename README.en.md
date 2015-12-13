@@ -36,7 +36,7 @@ Other languages: [繁體中文](https://github.com/sparanoid/chinese-copywriting
 
 与大家共勉之。」——[vinta/paranoid-auto-spacing](https://github.com/vinta/paranoid-auto-spacing)
 
-### Place one space before/after English words
+### Place one space before / after English words
 
 Good:
 
@@ -54,7 +54,7 @@ An example of complete and correct usage:
 
 Exceptions: For product and brand names, please refer to the writing format of the official definition. For example, use “豆瓣FM” instead of “豆瓣 FM”.
 
-### Place one space before/after numbers
+### Place one space before / after numbers
 
 Good:
 
@@ -90,7 +90,7 @@ Bad:
 
 > 新 MacBook Pro 有 15 % 的 CPU 性能提升。
 
-### No additional spaces before/after punctuation in fullwidth form
+### No additional spaces before / after punctuation in fullwidth form
 
 Good:
 
@@ -188,7 +188,7 @@ Bad:
 
 The following usages comprise of personal characteristics. As such, from the perspective of copywriting guidelines, they are still correct regardless of whether they comply with the following rules.
 
-### Add extra spaces before/after links
+### Add extra spaces before / after links
 
 Usage:
 
