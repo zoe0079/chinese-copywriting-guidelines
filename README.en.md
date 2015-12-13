@@ -3,7 +3,11 @@
 
 Chinese copywriting guidelines for better written communication.
 
-Other languages: [繁體中文](https://github.com/sparanoid/chinese-copywriting-guidelines)
+Other languages:
+
+- [English](README.en.md)
+- [Chinese Traditional](https://github.com/sparanoid/chinese-copywriting-guidelines)
+- [Chinese Simplified](README.md)
 
 -----
 
