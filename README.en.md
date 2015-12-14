@@ -28,7 +28,7 @@ Other languages:
 - [Nouns](#nouns)
   - [Avoid jargons](#avoid-jargons)
 - [Dispute](#dispute)
-  - [Add extra spaces before/after links](#extra-spaces-beforeafter-links)
+  - [Add extra spaces before/after links](#add-extra-spaces-beforeafter-links)
   - [Use corner brackets for Chinese Simplified](#use-corner-brackets-for-chinese-simplified)
 - [Tools](#tools)
 - [Examples of "Who is doing this?"](#examples-of-who-is-doing-this)
