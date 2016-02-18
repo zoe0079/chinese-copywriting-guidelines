@@ -239,20 +239,20 @@ Website | Copywriting | UGC
 [Microsoft China](http://www.microsoft.com/zh-cn/) | Yes | N/A
 [Microsoft Hong Kong](http://www.microsoft.com/zh-hk/) | Yes | N/A
 [Microsoft Taiwan](http://www.microsoft.com/zh-tw/) | Yes | N/A
-[LeanCloud](http://leancloud.cn/) | Yes | N/A
-[Zhihu](http://www.zhihu.com/) | Yes | 部分用户达成
-[V2EX](http://www.v2ex.com/) | Yes | Yes
-[SegmentFault](http://segmentfault.com/) | Yes | 部分用户达成
+[LeanCloud](https://leancloud.cn/) | Yes | N/A
+[Zhihu](https://www.zhihu.com/) | Yes | 部分用户达成
+[V2EX](https://www.v2ex.com/) | Yes | Yes
+[SegmentFault](https://segmentfault.com/) | Yes | 部分用户达成
 [Apple4us](http://apple4us.com/) | Yes | N/A
-[Wandoujia](http://www.wandoujia.com/) | Yes | N/A
-[Ruby China](http://ruby-china.org/) | Yes | 标题达成
-[PHPHub](http://phphub.org/) | Yes | 标题达成
+[Wandoujia](https://www.wandoujia.com/) | Yes | N/A
+[Ruby China](https://ruby-china.org/) | Yes | 标题达成
+[PHPHub](https://phphub.org/) | Yes | 标题达成
 
 ## References
 
 - [Guidelines for Using Capital Letters](http://grammar.about.com/od/punctuationandmechanics/a/Guidelines-For-Using-Capital-Letters.htm)
 - [Letter case - Wikipedia](http://en.wikipedia.org/wiki/Letter_case)
-- [Punctuation - Oxford Dictionaries](http://www.oxforddictionaries.com/us/words/punctuation)
+- [Punctuation - Oxford Dictionaries](http://www.oxforddictionaries.com/words/punctuation)
 - [Punctuation - The Purdue OWL](https://owl.english.purdue.edu/owl/section/1/6/)
 - [How to Use English Punctuation Corrently - wikiHow](http://www.wikihow.com/Use-English-Punctuation-Correctly)
 - [格式 - openSUSE](https://zh.opensuse.org/index.php?title=Help:%E6%A0%BC%E5%BC%8F)

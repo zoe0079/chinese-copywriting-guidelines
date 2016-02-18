@@ -274,20 +274,20 @@ Microsoft 有个 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 [Microsoft 中国](http://www.microsoft.com/zh-cn/) | Yes | N/A
 [Microsoft 香港](http://www.microsoft.com/zh-hk/) | Yes | N/A
 [Microsoft 台湾](http://www.microsoft.com/zh-tw/) | Yes | N/A
-[LeanCloud](http://leancloud.cn/) | Yes | N/A
-[知乎](http://www.zhihu.com/) | Yes | 部分用户达成
-[V2EX](http://www.v2ex.com/) | Yes | Yes
-[SegmentFault](http://segmentfault.com/) | Yes | 部分用户达成
+[LeanCloud](https://leancloud.cn/) | Yes | N/A
+[知乎](https://www.zhihu.com/) | Yes | 部分用户达成
+[V2EX](https://www.v2ex.com/) | Yes | Yes
+[SegmentFault](https://segmentfault.com/) | Yes | 部分用户达成
 [Apple4us](http://apple4us.com/) | Yes | N/A
-[豌豆荚](http://www.wandoujia.com/) | Yes | N/A
-[Ruby China](http://ruby-china.org/) | Yes | 标题达成
-[PHPHub](http://phphub.org/) | Yes | 标题达成
+[豌豆荚](https://www.wandoujia.com/) | Yes | N/A
+[Ruby China](https://ruby-china.org/) | Yes | 标题达成
+[PHPHub](https://phphub.org/) | Yes | 标题达成
 
 ## 参考文献
 
 - [Guidelines for Using Capital Letters](http://grammar.about.com/od/punctuationandmechanics/a/Guidelines-For-Using-Capital-Letters.htm)
 - [Letter case - Wikipedia](http://en.wikipedia.org/wiki/Letter_case)
-- [Punctuation - Oxford Dictionaries](http://www.oxforddictionaries.com/us/words/punctuation)
+- [Punctuation - Oxford Dictionaries](http://www.oxforddictionaries.com/words/punctuation)
 - [Punctuation - The Purdue OWL](https://owl.english.purdue.edu/owl/section/1/6/)
 - [How to Use English Punctuation Corrently - wikiHow](http://www.wikihow.com/Use-English-Punctuation-Correctly)
 - [格式 - openSUSE](https://zh.opensuse.org/index.php?title=Help:%E6%A0%BC%E5%BC%8F)
