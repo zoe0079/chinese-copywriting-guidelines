@@ -240,13 +240,13 @@ Website | Copywriting | UGC
 [Microsoft Hong Kong](http://www.microsoft.com/zh-hk/) | Yes | N/A
 [Microsoft Taiwan](http://www.microsoft.com/zh-tw/) | Yes | N/A
 [LeanCloud](https://leancloud.cn/) | Yes | N/A
-[Zhihu](https://www.zhihu.com/) | Yes | 部分用户达成
+[Zhihu](https://www.zhihu.com/) | Yes | Partial
 [V2EX](https://www.v2ex.com/) | Yes | Yes
-[SegmentFault](https://segmentfault.com/) | Yes | 部分用户达成
+[SegmentFault](https://segmentfault.com/) | Yes | Partial
 [Apple4us](http://apple4us.com/) | Yes | N/A
 [Wandoujia](https://www.wandoujia.com/) | Yes | N/A
-[Ruby China](https://ruby-china.org/) | Yes | 标题达成
-[PHPHub](https://phphub.org/) | Yes | 标题达成
+[Ruby China](https://ruby-china.org/) | Yes | Partial
+[PHPHub](https://phphub.org/) | Yes | Partial
 
 ## References
 
