@@ -13,6 +13,7 @@ Other languages:
 
 ## Table of Contents
 
+<!-- vim-markdown-toc GFM -->
 * [Spacing](#spacing)
 	* [Place one space before/after English words](#place-one-space-beforeafter-english-words)
 	* [Place one space before/after numbers](#place-one-space-beforeafter-numbers)
@@ -33,6 +34,8 @@ Other languages:
 * [Tools](#tools)
 * [Examples of “Who is doing this?”](#examples-of-who-is-doing-this)
 * [References](#references)
+
+<!-- vim-markdown-toc -->
 
 ## Spacing
 
