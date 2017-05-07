@@ -256,16 +256,17 @@ Microsoft 有个 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 
 ## 工具
 
-仓库 | 语言
---- | ---
-[vinta/paranoid-auto-spacing](https://github.com/vinta/paranoid-auto-spacing) | JavaScript
-[huei90/pangu.node](https://github.com/huei90/pangu.node) | Node.js
-[huacnlee/auto-correct](https://github.com/huacnlee/auto-correct) | Ruby
-[sparanoid/space-lover](https://github.com/sparanoid/space-lover) | PHP (WordPress)
-[nauxliu/auto-correct](https://github.com/NauxLiu/auto-correct) | PHP
-[hotoo/pangu.vim](https://github.com/hotoo/pangu.vim) | Vim
-[sparanoid/grunt-auto-spacing](https://github.com/sparanoid/grunt-auto-spacing) | Node.js (Grunt)
-[hjiang/scripts/add-space-between-latin-and-cjk](https://github.com/hjiang/scripts/blob/master/add-space-between-latin-and-cjk) | Python
+| 仓库                                                                                                                            | 语言            |
+|---------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| [vinta/paranoid-auto-spacing](https://github.com/vinta/paranoid-auto-spacing)                                                   | JavaScript      |
+| [huei90/pangu.node](https://github.com/huei90/pangu.node)                                                                       | Node.js         |
+| [huacnlee/auto-correct](https://github.com/huacnlee/auto-correct)                                                               | Ruby            |
+| [sparanoid/space-lover](https://github.com/sparanoid/space-lover)                                                               | PHP (WordPress) |
+| [nauxliu/auto-correct](https://github.com/NauxLiu/auto-correct)                                                                 | PHP             |
+| [ricoa/copywriting-correct](https://github.com/ricoa/copywriting-correct)                                                       | PHP             |
+| [hotoo/pangu.vim](https://github.com/hotoo/pangu.vim)                                                                           | Vim             |
+| [sparanoid/grunt-auto-spacing](https://github.com/sparanoid/grunt-auto-spacing)                                                 | Node.js (Grunt) |
+| [hjiang/scripts/add-space-between-latin-and-cjk](https://github.com/hjiang/scripts/blob/master/add-space-between-latin-and-cjk) | Python          |
 
 ## 谁在这样做？
 
